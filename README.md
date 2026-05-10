@@ -32,7 +32,7 @@
 
 ## Who
 
-Michael Krawitzky · Bruker Daltonics · built within [ZIGGY](https://github.com/MKrawitzky/Ziggy), the proteomics rockstar dashboard.
+Michael Krawitzky Â· built within [ZIGGY](https://github.com/MKrawitzky/Ziggy), the proteomics rockstar dashboard.
 
 ---
 
