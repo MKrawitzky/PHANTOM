@@ -32,7 +32,7 @@
 
 ## Who
 
-Michael Krawitzky Â· built within [ZIGGY](https://github.com/MKrawitzky/Ziggy), the proteomics rockstar dashboard.
+Michael Krawitzky - built within [ZIGGY](https://github.com/MKrawitzky/Ziggy), the proteomics rockstar dashboard.
 
 ---
 
